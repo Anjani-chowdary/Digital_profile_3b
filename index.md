@@ -2,22 +2,22 @@ Johnny Coder
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Sivalayam Road                  anjanisuma1202@gmail.com      
+Guntur                          @twitter_handle
+India                           9014592654
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2022 (expected)
+:   **Btech, Information Technology**; RVR AND JC COLLEGE OF ENGINEERING (GUNTUR)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
 2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
+:   **Intermediate , **; University of
     HomeTown (HomeTown)
 
     *Minor: Awesomeology*
